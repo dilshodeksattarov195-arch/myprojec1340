@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfncrypt",
+        "uuid": 12826480,
+        "checksum": "mmarjm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
